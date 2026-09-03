@@ -100,6 +100,20 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Archive identifier:** `arch-linux-for-wii-u`
 - **Note:** This is a disk image compressed with XZ (`.img.xz`), intended for the Wii U rather than being a conventional bootable ISO for a PC VM. **It could potentially be ported to other platforms, but doing so would take a while and would require adapting the system and software to the target hardware.**
 
+### 👹 FreeBSD 8.3-RELEASE i386
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| FreeBSD 8.3-RELEASE | i386 | FreeBSD 8.3-RELEASE i386 media | [Internet Archive](https://archive.org/details/freebsd-8.3_release_i386) |
+
+**Details:**
+- **Operating system:** FreeBSD
+- **Release:** 8.3-RELEASE
+- **Architecture:** i386 (32-bit x86)
+- **Source:** Internet Archive
+- **Archive identifier:** `freebsd-8.3_release_i386`
+- **Note:** This is a historical 32-bit FreeBSD release and is useful for legacy OS testing, preservation, and VM experimentation.
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
