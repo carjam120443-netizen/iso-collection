@@ -171,6 +171,20 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Filename:** Unknown from the supplied archive information
 - **Note:** **This is not an official Microsoft Windows 8.1 Ultimate ISO.** The “Ultimate” name refers to this project's unofficial/custom release and should not be confused with an official Windows edition. The developer plans to release an **x32 (32-bit) edition** as well.
 
+### 🐉 Kali Linux
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| Kali Linux (May 2025 archive) | Unknown | Unknown | [Internet Archive](https://archive.org/details/kali-linux_202505) |
+
+**Details:**
+- **Distribution:** Kali Linux
+- **Archive:** Internet Archive
+- **Archive identifier:** `kali-linux_202505`
+- **Architecture:** Unknown from the supplied archive information
+- **Filename:** Unknown from the supplied archive information
+- **Note:** This is a May 2025 archived Kali Linux image. The exact version, architecture, desktop environment, filename, and image type should be verified from the archive metadata before testing.
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
