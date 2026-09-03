@@ -203,6 +203,20 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Archive identifier:** `linuxmint-18.3-cinnamon-64bit_202103`
 - **Note:** This is an archived Linux Mint 18.3 Cinnamon image and should be treated as a historical/legacy release rather than a current Linux Mint version.
 
+### 🐶 Damn Small Linux (DSL)
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| Damn Small Linux | Unknown | `dsl.iso` | [Internet Archive](https://archive.org/download/dsl_20240114/dsl.iso) |
+
+**Details:**
+- **Distribution:** Damn Small Linux (DSL)
+- **Architecture:** Unknown from the supplied archive information
+- **ISO:** `dsl.iso`
+- **Archive:** Internet Archive
+- **Archive identifier:** `dsl_20240114`
+- **Note:** This is an archived Damn Small Linux image. The exact DSL version, architecture, and build details should be verified from the archive metadata or ISO itself before testing.
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
