@@ -142,6 +142,21 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Archive identifier:** `windows2007`
 - **Note:** The exact Windows release/build, edition, architecture, language, and image format should be verified from the archive metadata before testing.
 
+### 🌐 WindowsCPC — Network Boot Collection
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| WindowsCPC | Unknown | Network-boot files / images | [Internet Archive](https://archive.org/details/WindowsCPC) |
+
+**Details:**
+- **Product:** WindowsCPC
+- **Type:** Network-boot / netboot-related collection
+- **Architecture:** Unknown
+- **Filename:** Multiple files / images; exact filenames should be verified from the archive
+- **Archive:** Internet Archive
+- **Archive identifier:** `WindowsCPC`
+- **Note:** This is being cataloged as a **netboot-style/network-boot collection rather than a conventional Windows ISO**. Network booting generally means loading boot software or an operating-system environment over a network instead of starting from local optical media or a hard drive. citeturn0search12
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
