@@ -98,7 +98,7 @@ ISOs should be organized by operating system and release where practical. Useful
 - **File type:** **IMG/XZ**, not a normal ISO
 - **Source:** Internet Archive
 - **Archive identifier:** `arch-linux-for-wii-u`
-- **Note:** This is a disk image compressed with XZ (`.img.xz`), intended for the Wii U rather than being a conventional bootable ISO for a PC VM.
+- **Note:** This is a disk image compressed with XZ (`.img.xz`), intended for the Wii U rather than being a conventional bootable ISO for a PC VM. **It could potentially be ported to other platforms, but doing so would take a while and would require adapting the system and software to the target hardware.**
 
 ## 🧪 VM Testing
 
