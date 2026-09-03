@@ -71,6 +71,20 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Archive:** Internet Archive
 - **Note:** This is a very old Debian Live image. Debian's archive lists the 5.0.x Lenny releases as historical releases, so this should be treated as an archival/legacy image rather than a current Debian release.
 
+### 🪟 Windows 11
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| Windows 11 | Unknown | `Windows 11.iso` | [Internet Archive](https://archive.org/download/windows-11_20981235/Windows%2011.iso) |
+
+**Details:**
+- **Product:** Windows 11
+- **Architecture:** Unknown from the supplied archive information
+- **ISO:** `Windows 11.iso`
+- **Archive:** Internet Archive
+- **Archive identifier:** `windows-11_20981235`
+- **Note:** The specific build, edition, language, and release date should be verified from the archive metadata or ISO itself before relying on this image for testing.
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
