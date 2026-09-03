@@ -85,6 +85,21 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Archive identifier:** `windows-11_20981235`
 - **Note:** The specific build, edition, language, and release date should be verified from the archive metadata or ISO itself before relying on this image for testing.
 
+### 🐧 Arch Linux for Wii U
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| Arch Linux for Wii U | PowerPC / Wii U | `.img.xz` image | [Internet Archive](https://archive.org/details/arch-linux-for-wii-u) |
+
+**Details:**
+- **Product:** Arch Linux for Wii U
+- **Platform:** Nintendo Wii U
+- **Architecture:** PowerPC-based Wii U platform
+- **File type:** **IMG/XZ**, not a normal ISO
+- **Source:** Internet Archive
+- **Archive identifier:** `arch-linux-for-wii-u`
+- **Note:** This is a disk image compressed with XZ (`.img.xz`), intended for the Wii U rather than being a conventional bootable ISO for a PC VM.
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
