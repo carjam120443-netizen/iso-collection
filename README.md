@@ -28,6 +28,21 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Source**
 - **Checksums**, when available
 
+## 📀 ISO Index
+
+### 🪟 Rectify10
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| Rectify10 (April 2026 archive) | x64 | `Rectify10.x64.iso` | [Internet Archive](https://archive.org/download/rectify10_202604/Rectify10.x64.iso) |
+
+**Details:**
+- **Architecture:** x64
+- **ISO:** `Rectify10.x64.iso`
+- **Archive:** Internet Archive
+- **Archive identifier:** `rectify10_202604`
+- **Direct download:** https://archive.org/download/rectify10_202604/Rectify10.x64.iso
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
