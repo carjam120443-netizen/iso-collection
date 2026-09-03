@@ -128,6 +128,20 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Archive identifier:** `windows-megamix-40-years`
 - **Note:** This appears to be a historical Windows collection spanning Microsoft's 40-year history. Exact included releases, files, architectures, and formats should be verified from the archive metadata before testing.
 
+### 🪟 Windows 2007
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| Windows 2007 | Unknown | Unknown | [Internet Archive](https://archive.org/details/windows2007) |
+
+**Details:**
+- **Product:** Windows 2007
+- **Architecture:** Unknown
+- **Filename:** Unknown from the supplied archive page
+- **Archive:** Internet Archive
+- **Archive identifier:** `windows2007`
+- **Note:** The exact Windows release/build, edition, architecture, language, and image format should be verified from the archive metadata before testing.
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
