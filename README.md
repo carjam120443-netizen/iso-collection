@@ -175,15 +175,17 @@ ISOs should be organized by operating system and release where practical. Useful
 
 | Release | Architecture | Filename | Source |
 |---|---|---|---|
-| Kali Linux (May 2025 archive) | Unknown | Unknown | [Internet Archive](https://archive.org/details/kali-linux_202505) |
+| Kali Linux (May 2025 archive) | x64 | Multiple versions | [Internet Archive](https://archive.org/details/kali-linux_202505) |
 
 **Details:**
 - **Distribution:** Kali Linux
+- **Architecture:** x64
 - **Archive:** Internet Archive
 - **Archive identifier:** `kali-linux_202505`
-- **Architecture:** Unknown from the supplied archive information
-- **Filename:** Unknown from the supplied archive information
-- **Note:** This is a May 2025 archived Kali Linux image. The exact version, architecture, desktop environment, filename, and image type should be verified from the archive metadata before testing.
+- **Versions:** Multiple Kali Linux versions are included
+- **Filenames:** Multiple filenames / images are included
+- **Image types:** Multiple image types are included
+- **Note:** This is a May 2025 archived Kali Linux collection containing multiple versions, filenames, and image types.
 
 ## 🧪 VM Testing
 
