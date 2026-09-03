@@ -169,7 +169,7 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Archive:** Internet Archive
 - **Archive identifier:** `windows-8.1-ultimate_202506`
 - **Filename:** Unknown from the supplied archive information
-- **Note:** The developer plans to release an **x32 (32-bit) edition** as well.
+- **Note:** **This is not an official Microsoft Windows 8.1 Ultimate ISO.** The “Ultimate” name refers to this project's unofficial/custom release and should not be confused with an official Windows edition. The developer plans to release an **x32 (32-bit) edition** as well.
 
 ## 🧪 VM Testing
 
