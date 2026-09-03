@@ -155,7 +155,21 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Filename:** Multiple files / images; exact filenames should be verified from the archive
 - **Archive:** Internet Archive
 - **Archive identifier:** `WindowsCPC`
-- **Note:** This is being cataloged as a **netboot-style/network-boot collection rather than a conventional Windows ISO**. Network booting generally means loading boot software or an operating-system environment over a network instead of starting from local optical media or a hard drive. citeturn0search12
+- **Note:** This is being cataloged as a **netboot-style/network-boot collection rather than a conventional Windows ISO**. Network booting generally means loading boot software or an operating-system environment over a network instead of starting from local optical media or a hard drive.
+
+### 🪟 Windows 8.1 Ultimate
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| Windows 8.1 Ultimate (June 2025 archive) | x64 | Unknown | [Internet Archive](https://archive.org/details/windows-8.1-ultimate_202506) |
+
+**Details:**
+- **Product:** Windows 8.1 Ultimate
+- **Architecture:** x64
+- **Archive:** Internet Archive
+- **Archive identifier:** `windows-8.1-ultimate_202506`
+- **Filename:** Unknown from the supplied archive information
+- **Note:** The developer plans to release an **x32 (32-bit) edition** as well.
 
 ## 🧪 VM Testing
 
