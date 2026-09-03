@@ -43,6 +43,34 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Archive identifier:** `rectify10_202604`
 - **Direct download:** https://archive.org/download/rectify10_202604/Rectify10.x64.iso
 
+### 🪟 WinLinux 2000
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| WinLinux 2000 | Unknown | `WinLinux 2000.iso` | [Internet Archive](https://archive.org/download/win-linux-2000/WinLinux%202000.iso) |
+
+**Details:**
+- **Product:** WinLinux 2000
+- **Architecture:** Unknown from the supplied archive filename
+- **ISO:** `WinLinux 2000.iso`
+- **Archive:** Internet Archive
+- **Archive identifier:** `win-linux-2000`
+
+### 🐧 Debian Live 5.0 GNOME
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| Debian Live 5.0 (Lenny) GNOME | amd64 | `debian-live-500-amd64-gnome-desktop.iso` | [Internet Archive](https://archive.org/download/debian-live/debian-live-500-amd64-gnome-desktop.iso) |
+
+**Details:**
+- **Distribution:** Debian GNU/Linux
+- **Release:** 5.0 (Lenny)
+- **Desktop:** GNOME
+- **Architecture:** amd64
+- **ISO:** `debian-live-500-amd64-gnome-desktop.iso`
+- **Archive:** Internet Archive
+- **Note:** This is a very old Debian Live image. Debian's archive lists the 5.0.x Lenny releases as historical releases, so this should be treated as an archival/legacy image rather than a current Debian release.
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
