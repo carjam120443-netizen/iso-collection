@@ -187,6 +187,22 @@ ISOs should be organized by operating system and release where practical. Useful
 - **Image types:** Multiple image types are included
 - **Note:** This is a May 2025 archived Kali Linux collection containing multiple versions, filenames, and image types.
 
+### 🌿 Linux Mint 18.3 Cinnamon
+
+| Release | Architecture | Filename | Source |
+|---|---|---|---|
+| Linux Mint 18.3 Cinnamon | 64-bit | `linuxmint-18.3-cinnamon-64bit.iso` | [Internet Archive](https://archive.org/download/linuxmint-18.3-cinnamon-64bit_202103/linuxmint-18.3-cinnamon-64bit.iso) |
+
+**Details:**
+- **Distribution:** Linux Mint
+- **Release:** 18.3
+- **Desktop:** Cinnamon
+- **Architecture:** 64-bit (x86_64)
+- **ISO:** `linuxmint-18.3-cinnamon-64bit.iso`
+- **Archive:** Internet Archive
+- **Archive identifier:** `linuxmint-18.3-cinnamon-64bit_202103`
+- **Note:** This is an archived Linux Mint 18.3 Cinnamon image and should be treated as a historical/legacy release rather than a current Linux Mint version.
+
 ## 🧪 VM Testing
 
 These images are especially useful for experimenting with operating systems in virtual machines such as:
